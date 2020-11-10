@@ -1,0 +1,1 @@
+Pequeño proyecto que pude desarollar durante el curso, este es un simple buscaminas, donde implementar toda la lógica del juego fue todo un reto personal :D, en este trabajo disfrute mucho puesto que salia del estandar que habiamos visto en clase hasta el momento de consultas tipicas a una BD.
